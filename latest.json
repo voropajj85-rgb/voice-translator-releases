@@ -1,7 +1,7 @@
 {
   "version": "0.2.2-alpha",
   "download_url": "https://github.com/voropajj85-rgb/voice-translator-releases/releases/download/v0.2.2-alpha/VoiceTranslator-0.2.2-alpha-Windows-x64.zip",
-  "sha256": "32855ad131b6eab2b2e4256e80152d265146ae4f9fa28dcf87dfd776fecad994",
-  "size": 808155645,
+  "sha256": "63bd90947a75da08e1b44db5f40d67111b965959c3d684b8966525e10472a19b",
+  "size": 808156734,
   "release_notes": "- responsive settings for smaller laptop screens;\n- update infrastructure;\n- online-call alpha improvements;\n- persistent models/settings."
 }
