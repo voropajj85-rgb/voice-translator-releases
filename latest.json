@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2-alpha",
-  "download_url": "https://github.com/voropajj85-rgb/voice-translator-releases/releases/download/v0.2.2-alpha/VoiceTranslator-0.2.2-alpha-Windows-x64.zip",
-  "sha256": "b7b47dee82b84e157b60e57ad466bcb17fbd190d8b8f61430b5e1d726782b76f",
-  "size": 808155660,
-  "release_notes": "- responsive settings for smaller laptop screens;\n- update infrastructure;\n- online-call alpha improvements;\n- persistent models/settings."
+  "version": "0.2.3-alpha",
+  "download_url": "https://github.com/voropajj85-rgb/voice-translator-releases/releases/download/v0.2.3-alpha/VoiceTranslator-0.2.3-alpha-Windows-x64.zip",
+  "sha256": "265db445e17ea1445c77b41988e6d3188a2d2eafef019773d93e5056171c198a",
+  "size": 808163599,
+  "release_notes": "- improved Settings layout;\n- larger responsive Settings window;\n- fixed clipped controls and long audio device names;\n- mouse wheel no longer changes settings accidentally."
 }
