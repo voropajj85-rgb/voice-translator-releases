@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3-alpha",
-  "download_url": "https://github.com/voropajj85-rgb/voice-translator-releases/releases/download/v0.2.3-alpha/VoiceTranslator-0.2.3-alpha-Windows-x64.zip",
-  "sha256": "5b823470505ee6bbc043b22486cc14b68ae02e7878ccdd4621e942576370539e",
-  "size": 808163758,
-  "release_notes": "- improved Settings layout;\n- larger responsive Settings window;\n- fixed clipped controls and long audio device names;\n- mouse wheel no longer changes settings accidentally."
+  "version": "0.2.4-alpha",
+  "download_url": "https://github.com/voropajj85-rgb/voice-translator-releases/releases/download/v0.2.4-alpha/VoiceTranslator-0.2.4-alpha-Windows-x64.zip",
+  "sha256": "8a17e4d6f9ac569fd0e42dc76e95721818f06e7a95c5a08193a67059722ffe79",
+  "size": 808179579,
+  "release_notes": "- added Russian and English interface localization;\n- added quick RU/EN language switch near Settings;\n- removed mixed Russian/English UI text;\n- interface language is saved between launches;\n- update checker now uses GitHub Releases API."
 }
